@@ -1,6 +1,6 @@
 # Machine Learning: Resources in Portland, Oregon, United States
 
-A list of groups meeting in Portland, mostly focused on machine learning or artificial intelligence.
+A list of groups meeting in Portland, mostly focused on machine learning, artificial intelligence, or data science.
 
 [Jim Tyhurst, Ph.D.](https://www.jimtyhurst.com)  
 2019-10-28
@@ -8,21 +8,26 @@ A list of groups meeting in Portland, mostly focused on machine learning or arti
 **Table of Contents**
 
 * [Meetup groups focused on machine learning topics](#meetup-groups-focused-on-machine-learning-topics)
-    * [General data science, AI, machine learning, or deep learning](#general-data-science-AI-machine-learning-or-deep-learning)
+    * [General artificial intelligence, data science, machine learning, or deep learning](#general-artificial-intelligence-data-science-machine-learning-or-deep-learning)
     * [Languages and frameworks used for machine learning](#languages-and-frameworks-used-for-machine-learning)
 * [Meetup groups that sometimes touch on data science or machine learning topics](#meetup-groups-that-sometimes-touch-on-data-science-or-machine-learning-topics)
     * [Civic Tech groups](#civic-tech-groups)
     * [Cloud computing groups](#cloud-computing-groups)
 * [Additional sources for information about tech user groups](#additional-sources-for-information-about-tech-user-groups)
 
+_Note_: Group descriptions are mostly copied from the group's web site.
+
 ## Meetup groups focused on machine learning topics
 
-### General data science, AI, machine learning, or deep learning
+### General artificial intelligence, data science, machine learning, or deep learning
 [Portland Data Science Group](https://www.meetup.com/Portland-Data-Science-Group/)  
 The Portland Data Science group focuses on learning and implementing techniques in data collection, mining, retrieval, munging, analysis, and visualization
 
 [Portland AI Developer Group](https://www.meetup.com/aittg-portland/)  
 Join us to learn and practice AI, Machine learning, Deep learning and Data Science technology together with like-minded developers.
+
+[Cambia AI Meetup](https://www.meetup.com/Cambia-AI-Meetup/)  
+At Cambia, we use AI to improve the way people experience health care. Our AI meetup group is for anyone interested in Data Science/Machine Learning/AI Technology.
 
 [Portland Deep Learning](https://www.meetup.com/Portland-Deep-Learning/)  
 This is a Meetup to explore the vendor, language and framework neutral practical applications of deep learning technologies.
@@ -33,9 +38,6 @@ Probabilistic programming is powerful addition to your AI/ML tool belt. Topics f
 [Portland Machine Learning Meetup](https://www.meetup.com/Portland-Machine-Learning-Meetup/)  
 This is a group for anyone interested in Artificial Intelligence, Deep Learning, Machine Learning.
 
-[Cambia AI Meetup](https://www.meetup.com/Cambia-AI-Meetup/)  
-At Cambia, we use AI to improve the way people experience health care. Our AI meetup group is for anyone interested in Data Science/Machine Learning/AI Technology.
-
 [PDX Data Visualization](https://www.meetup.com/PDX-Data-Visualization/)  
 We're a group that focuses on emerging data visualization techniques and projects.
 
@@ -44,6 +46,9 @@ We're a group passionate about 'all' data. We're data engineers, data architects
 
 [PDX Data Engineering](https://www.meetup.com/PDX-Data-Engineering/)  
 We're interested in the intersection of data science, systems architecture, data modeling and devops.
+
+[OHSU BioData Club](https://biodata-club.github.io/)  
+BioData Club is an interdisciplinary community at OHSU dedicated to promoting a fun and supportive culture of co-learning in data science skills and open science principles.
 
 [Dynamic Talks Portland](https://www.meetup.com/Dynamic-Talks-Portland/)  
 Enjoy talks about the most innovative subjects in AI, ML, voice platforms, the Cloud, and search. One of the objectives of Dynamic Talks is to foster and encourage the local technology community to share knowledge.
@@ -131,6 +136,8 @@ The landscape of search has undergone many changes over the years. In the past c
 ## Additional sources for information about tech user groups
 [Calagator](http://calagator.org/)  
 Calagator is a unified calendar for the technology community of Portland, Oregon.
+
+[Meetup.com](https://www.meetup.com/)
 
 [AI/ML Unconference](http://aiml.rocks/)  
 Unconference on Artificial Intelligence & Machine Learning. Portland, Oregon. 2019-10-19.
