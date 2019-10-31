@@ -13,6 +13,7 @@ A list of groups meeting in Portland, mostly focused on machine learning, artifi
 * [Meetup groups that sometimes touch on data science or machine learning topics](#meetup-groups-that-sometimes-touch-on-data-science-or-machine-learning-topics)
     * [Civic Tech groups](#civic-tech-groups)
     * [Cloud computing groups](#cloud-computing-groups)
+* [Conferences](#conferences)
 * [Additional sources for information about tech user groups](#additional-sources-for-information-about-tech-user-groups)
 
 _Note_: Group descriptions are mostly copied from the group's web site.
@@ -71,6 +72,9 @@ The focus of this Meetup group is to allow ODSC to work with Meetup groups, non-
 ### Languages and frameworks used for machine learning
 [Portland R User Group](https://www.meetup.com/portland-r-user-group/)  
 R is a free software environment for statistical computing and graphics.
+
+[Portland R-Ladies](https://rladies.org/ladies-complete-list/locality/Portland/)  
+R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.
 
 [Portland PyTorch Meetup](https://www.meetup.com/Portland-PyTorch-Meetup/)  
 This is a peer group for people who do science with PyTorch.
@@ -133,14 +137,18 @@ To all aspiring or professional Android developers, Chrome, Cloud, Big Data and 
 [Portland Lucene/Solr Meetup](https://www.meetup.com/Portland-Lucene-Solr-Meetup/)  
 The landscape of search has undergone many changes over the years. In the past couple years, the Apache Solr community has built a cloud native pairing for the unparalleled indexing technology of Lucene.
 
+## Conferences
+[AI/ML Unconference](http://aiml.rocks/)  
+Unconference on Artificial Intelligence & Machine Learning. Portland, Oregon. 2019-10-19.
+
+[Cascadia R Conf](https://cascadiarconf.com/)  
+An R conference serving the Pacific Northwest region (Oregon/Washington/BC). Originally hosted by the [Portland R User Group](https://www.meetup.com/portland-r-user-group/) starting in 2017, but then expanded to other locations.
+
 ## Additional sources for information about tech user groups
 [Calagator](http://calagator.org/)  
 Calagator is a unified calendar for the technology community of Portland, Oregon.
 
 [Meetup.com](https://www.meetup.com/)
-
-[AI/ML Unconference](http://aiml.rocks/)  
-Unconference on Artificial Intelligence & Machine Learning. Portland, Oregon. 2019-10-19.
 
 ---
 
