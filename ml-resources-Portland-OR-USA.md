@@ -13,7 +13,7 @@ A list of groups meeting in Portland, mostly focused on machine learning, artifi
 * [Meetup groups that sometimes touch on data science or machine learning topics](#meetup-groups-that-sometimes-touch-on-data-science-or-machine-learning-topics)
     * [Civic Tech groups](#civic-tech-groups)
     * [Cloud computing groups](#cloud-computing-groups)
-* [Conferences](#conferences)
+* [Conferences in or near Portland](#conferences-in-or-near-Portland)
 * [Additional sources for information about tech user groups](#additional-sources-for-information-about-tech-user-groups)
 
 _Note_: Group descriptions are mostly copied from the group's web site.
@@ -137,12 +137,25 @@ To all aspiring or professional Android developers, Chrome, Cloud, Big Data and 
 [Portland Lucene/Solr Meetup](https://www.meetup.com/Portland-Lucene-Solr-Meetup/)  
 The landscape of search has undergone many changes over the years. In the past couple years, the Apache Solr community has built a cloud native pairing for the unparalleled indexing technology of Lucene.
 
-## Conferences
+## Conferences in or near Portland
 [AI/ML Unconference](http://aiml.rocks/)  
 Unconference on Artificial Intelligence & Machine Learning. Portland, Oregon. 2019-10-19.
 
 [Cascadia R Conf](https://cascadiarconf.com/)  
 An R conference serving the Pacific Northwest region (Oregon/Washington/BC). Originally hosted by the [Portland R User Group](https://www.meetup.com/portland-r-user-group/) starting in 2017, but then expanded to other locations.
+
+[csv,conf](https://csvconf.com/)  
+Held in Portland for several years:
+
+* [2019](https://csvconf.com/2019/) [videos](https://www.youtube.com/playlist?list=PLg5zZXwt2ZW72M0KOOt8xQNXsSPMp4PNd)
+* [2017](https://csvconf.com/2017/) [videos](https://www.youtube.com/playlist?list=PLg5zZXwt2ZW5UIz13oI56vfZjF6mvpIXN)
+* [2016](https://csvconf.com/2016/) [videos](https://www.youtube.com/channel/UCWq7JfT4PJrCZLmxSOVJOww)
+
+[ML4ALL](http://ml4all.org/)  
+Machine learning "for the rest of us". First held in 2018.
+
+[OSCON](http://conferences.oreilly.com/oscon/): Open Source Conference  
+Yearly conference, often held in Portland.
 
 ## Additional sources for information about tech user groups
 [Calagator](http://calagator.org/)  
