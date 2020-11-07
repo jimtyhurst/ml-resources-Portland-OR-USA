@@ -30,7 +30,7 @@ Join us to learn and practice AI, Machine learning, Deep learning and Data Scien
 [Cambia AI Meetup](https://www.meetup.com/Cambia-AI-Meetup/)  
 At Cambia, we use AI to improve the way people experience health care. Our AI meetup group is for anyone interested in Data Science/Machine Learning/AI Technology.
 
-_[Portland Deep Learning](https://www.meetup.com/Portland-Deep-Learning/)_ **No longer active**.  
+_[Portland Deep Learning](https://www.meetup.com/Portland-Deep-Learning/)_ [**No longer active**.]  
 This is a Meetup to explore the vendor, language and framework neutral practical applications of deep learning technologies.
 
 [Probabilistic Programming](https://www.meetup.com/Probabilistic-Programming/)  
@@ -42,7 +42,7 @@ This is a group for anyone interested in Artificial Intelligence, Deep Learning,
 [PDX Data Visualization](https://www.meetup.com/PDX-Data-Visualization/)  
 We're a group that focuses on emerging data visualization techniques and projects.
 
-_[Data Driven PDX](https://www.meetup.com/Data-Driven-PDX/)_ **No longer active**.  
+_[Data Driven PDX](https://www.meetup.com/Data-Driven-PDX/)_ [**No longer active**.]  
 We're a group passionate about 'all' data. We're data engineers, data architects, data scientists, data journalists, chief data officers: frankly anyone interested in changing the world with data. Come learn, imagine, explore, tell stories with data.
 
 [PDX Data Engineering](https://www.meetup.com/PDX-Data-Engineering/)  
@@ -60,7 +60,7 @@ This group will be for training software programmers, data scientists and enthus
 [Portland Big Data Meetup](https://www.meetup.com/Portland-Big-Data-Meetup/)  
 Operationalizing the cloud data lake with Big Data, ML and AI.
 
-_[Chatbots & Intelligent Conversational Interfaces (PDX)](https://www.meetup.com/Chatbots_Intelligent_Conversational_Interfaces/)_ **No longer active**. 
+_[Chatbots & Intelligent Conversational Interfaces (PDX)](https://www.meetup.com/Chatbots_Intelligent_Conversational_Interfaces/)_ [**No longer active**.]  
 Join a group of designers, engineers, innovators and business strategists who are dreaming up the next generation of digital experiences beyond clicks and swipes.
 
 [Data Natives, Portland](https://www.meetup.com/Data-Natives-Portland/)  
@@ -88,7 +88,7 @@ We are a social/professional group for women who are Python programmers at every
 [Hillsboro Python Machine Learning Meetup](https://www.meetup.com/Hillsboro-Python-Machine-Learning-Meetup/)  
 The Hillsboro Python Machine Learning Meetup is the Data Scientists user group for best practices and advanced Machine Learning using Python Data Stack in Hillsboro-Beaverton area.
 
-_[FastAI PDX](https://www.meetup.com/Portland-fastai/)_ **No longer active**.  
+_[FastAI PDX](https://www.meetup.com/Portland-fastai/)_ [**No longer active**.]  
 We are AI self-learners and we use the FastAI (https://www.fast.ai/) library and (free, online) course materials (https://course.fast.ai/) as an entry point for self-learners who are new to AI.
 
 [PyData PDX](https://www.meetup.com/PyData-PDX/)  
