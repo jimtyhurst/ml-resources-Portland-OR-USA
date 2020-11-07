@@ -144,6 +144,9 @@ Unconference on Artificial Intelligence & Machine Learning. Portland, Oregon. 20
 [Cascadia R Conf](https://cascadiarconf.com/)  
 An R conference serving the Pacific Northwest region (Oregon/Washington/BC). Originally hosted by the [Portland R User Group](https://www.meetup.com/portland-r-user-group/) starting in 2017, but then expanded to other locations.
 
+[PyCascades](https://www.pycascades.com/)  
+Hosted annually at one of Vancouver, Seattle, or Portland to bring together Python users and developers from both the Pacific Northwest and around the world.
+
 [csv,conf](https://csvconf.com/)  
 Held in Portland for several years:
 
